@@ -1,7 +1,16 @@
 # Password-management-portal
-Password management portal created using bootstrap 3 for students to change their password. 
 
-Versions:
+---
+title: Password management portal
+description: Password management portal to change/reset passwords
+author: Nishita Basavaraju
+created:  2016 Oct 15
+modified: 2017 Jan 16
+
+---
+
+Password management portal created using bootstrap 3 for students to change their password. 
+Version:
 Bootstap 3.3.6 version
 HTML5
 CSS3
